@@ -23,7 +23,7 @@ const IconList = {
   IconTimes: IconTimes,
   IconEnvelope: IconEnvelope,
   IconGithub: IconGithub,
-  IconLaravel: IconGithub,
+  IconLaravel: IconLaravel,
   IconNuxt: IconNuxt,
   IconPhone: IconPhone,
   IconSignIn: IconSignIn,
