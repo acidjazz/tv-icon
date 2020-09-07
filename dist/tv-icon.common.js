@@ -191,6 +191,7 @@ __webpack_require__.d(__webpack_exports__, "IconNuxt", function() { return /* re
 __webpack_require__.d(__webpack_exports__, "IconPhone", function() { return /* reexport */ IconPhone; });
 __webpack_require__.d(__webpack_exports__, "IconSignIn", function() { return /* reexport */ IconSignIn; });
 __webpack_require__.d(__webpack_exports__, "IconToast", function() { return /* reexport */ IconToast; });
+__webpack_require__.d(__webpack_exports__, "IconList", function() { return /* reexport */ IconList; });
 
 // CONCATENATED MODULE: ./node_modules/@vue/cli-service/lib/commands/build/setPublicPath.js
 // This file is imported into lib/wc client bundles.
@@ -817,27 +818,29 @@ var IconToast_component = normalizeComponent(
 
 
 
-const components = [
-  IconBang,
-  IconCheck,
-  IconInfo,
-  IconTimes,
-  IconEnvelope,
-  IconGithub,
-  IconLaravel,
-  IconNuxt,
-  IconPhone,
-  IconSignIn,
-  IconToast,
-]
+
+const IconList = {
+  IconBang: IconBang,
+  IconCheck: IconCheck,
+  IconInfo: IconInfo,
+  IconTimes: IconTimes,
+  IconEnvelope: IconEnvelope,
+  IconGithub: IconGithub,
+  IconLaravel: IconGithub,
+  IconNuxt: IconNuxt,
+  IconPhone: IconPhone,
+  IconSignIn: IconSignIn,
+  IconToast: IconToast,
+}
 
 /* harmony default export */ var src_0 = ({
   install (Vue, options = {}) {
-    components.forEach(component => {
-      Vue.component(component.name, component)
-    })
+    for (var key in IconList) {
+      Vue.component(key, IconList[key])
+    }
   }
 });
+
 
 
 // CONCATENATED MODULE: ./node_modules/@vue/cli-service/lib/commands/build/entry-lib.js
