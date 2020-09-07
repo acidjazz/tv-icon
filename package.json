@@ -1,6 +1,6 @@
 {
   "name": "tv-icon",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "icons used in nuxt-tailvue",
   "main": "dist/tv-icon.umd.js",
   "files": [
