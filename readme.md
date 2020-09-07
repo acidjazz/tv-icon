@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="media/icons.png" width="600" />
+  <img src="media/icons.gif" width="600" />
 </p>
 
 [![](https://img.shields.io/npm/v/tv-icon.svg?logo=npm&style=flat-square)](https://www.npmjs.com/package/tv-icon)
