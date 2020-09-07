@@ -1,0 +1,1 @@
+.spinning{transform-origin:50% 50%;-webkit-animation:spinning-right 1s linear infinite;animation:spinning-right 1s linear infinite}@-webkit-keyframes spinning-right{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}@keyframes spinning-right{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}

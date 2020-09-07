@@ -8,6 +8,6 @@
 <script>
 import icon from '@/mixins/icon'
 export default {
-  mixins: [icon],
+  mixins: [ icon ],
 }
 </script>

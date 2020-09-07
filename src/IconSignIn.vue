@@ -7,7 +7,5 @@
 
 <script>
 import icon from '@/mixins/icon'
-export default {
-  mixins: [icon],
-}
+export default { mixins: [ icon ] }
 </script>
