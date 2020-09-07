@@ -1,1 +1,0 @@
-.animation-loading{-webkit-animation:push-button-loading 1s linear 0s infinite;animation:push-button-loading 1s linear 0s infinite}@-webkit-keyframes push-button-loading{0%{transform:translate(-100%)}to{transform:translate(200%)}}@keyframes push-button-loading{0%{transform:translate(-100%)}to{transform:translate(200%)}}
