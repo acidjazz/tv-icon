@@ -15,11 +15,12 @@ export default { mixins: [ icon ] }
   transform-origin: 50% 50%;
   animation: spinning-right 1s infinite linear;
 }
+
 @keyframes spinning-right {
-  0% {
+  from {
     transform: rotate(0deg);
   }
-  100% {
+  to {
     transform: rotate(360deg);
   }
 }

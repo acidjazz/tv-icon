@@ -15,6 +15,18 @@ import IconMarker from './IconMarker.vue'
 import IconOfficePhone from './IconOfficePhone.vue'
 import IconSearch from './IconSearch.vue'
 import IconSpinner from './IconSpinner.vue'
+import IconAws from './IconAws.vue'
+import IconBellOn from './IconBellOn.vue'
+import IconBitBucket from './IconBitBucket.vue'
+import IconBook from './IconBook.vue'
+import IconBookOpen from './IconBookOpen.vue'
+import IconBooks from './IconBooks.vue'
+import IconChevronLeft from './IconChevronLeft.vue'
+import IconChevronRight from './IconChevronRight.vue'
+import IconFume from './IconFume.vue'
+import IconGitlab from './IconGitlab.vue'
+import IconInvoiceDollar from './IconInvoiceDollar.vue'
+import IconQuestion from './IconQuestion.vue'
 
 const IconList = {
   IconBang: IconBang,
@@ -34,6 +46,18 @@ const IconList = {
   IconOfficePhone: IconOfficePhone,
   IconSearch: IconSearch,
   IconSpinner: IconSpinner,
+  IconAws: IconAws,
+  IconBellOn: IconBellOn,
+  IconBitBucket: IconBitBucket,
+  IconBook: IconBook,
+  IconBookOpen: IconBookOpen,
+  IconBooks: IconBooks,
+  IconChevronLeft: IconChevronLeft,
+  IconChevronRight: IconChevronRight,
+  IconFume: IconFume,
+  IconGitlab: IconGitlab,
+  IconInvoiceDollar: IconInvoiceDollar,
+  IconQuestion: IconQuestion,
 }
 
 export default {
@@ -62,4 +86,16 @@ export {
   IconOfficePhone,
   IconSearch,
   IconSpinner,
+  IconAws,
+  IconBellOn,
+  IconBitBucket,
+  IconBook,
+  IconBookOpen,
+  IconBooks,
+  IconChevronLeft,
+  IconChevronRight,
+  IconFume,
+  IconGitlab,
+  IconInvoiceDollar,
+  IconQuestion,
 }
