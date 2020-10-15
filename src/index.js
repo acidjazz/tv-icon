@@ -27,6 +27,15 @@ import IconFume from './IconFume.vue'
 import IconGitLab from './IconGitLab.vue'
 import IconInvoiceDollar from './IconInvoiceDollar.vue'
 import IconQuestion from './IconQuestion.vue'
+import IconAwsColor from './IconAwsColor.vue'
+import IconGoogleCloud from './IconGoogleCloud.vue'
+import IconImage from './IconImage.vue'
+import IconImages from './IconImages.vue'
+import IconUpload from './IconUpload.vue'
+import IconUsers from './IconUsers.vue'
+import IconUsersPlus from './IconUsersPlus.vue'
+import IconWindow from './IconWindow.vue'
+import IconWindowsColor from './IconWindowsColor.vue'
 
 const IconList = {
   IconBang: IconBang,
@@ -58,6 +67,15 @@ const IconList = {
   IconGitLab: IconGitLab,
   IconInvoiceDollar: IconInvoiceDollar,
   IconQuestion: IconQuestion,
+  IconAwsColor: IconAwsColor,
+  IconGoogleCloud: IconGoogleCloud,
+  IconImage: IconImage,
+  IconImages: IconImages,
+  IconUpload: IconUpload,
+  IconUsers: IconUsers,
+  IconUsersPlus: IconUsersPlus,
+  IconWindow: IconWindow,
+  IconWindowsColor: IconWindowsColor,
 }
 
 export default {
@@ -98,4 +116,13 @@ export {
   IconGitLab,
   IconInvoiceDollar,
   IconQuestion,
+  IconAwsColor,
+  IconGoogleCloud,
+  IconImage,
+  IconImages,
+  IconUpload,
+  IconUsers,
+  IconUsersPlus,
+  IconWindow,
+  IconWindowsColor,
 }
