@@ -36,6 +36,8 @@ import IconUsers from './IconUsers.vue'
 import IconUsersPlus from './IconUsersPlus.vue'
 import IconWindow from './IconWindow.vue'
 import IconWindowsColor from './IconWindowsColor.vue'
+import IconCog from './IconCog'
+import IconSignOut from './IconSignOut'
 
 const IconList = {
   IconBang: IconBang,
@@ -76,6 +78,8 @@ const IconList = {
   IconUsersPlus: IconUsersPlus,
   IconWindow: IconWindow,
   IconWindowsColor: IconWindowsColor,
+  IconCog: IconCog,
+  IconSignOut: IconSignOut,
 }
 
 export default {
@@ -125,4 +129,6 @@ export {
   IconUsersPlus,
   IconWindow,
   IconWindowsColor,
+  IconCog,
+  IconSignOut,
 }
