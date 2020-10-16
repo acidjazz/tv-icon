@@ -236,6 +236,8 @@ __webpack_require__.d(__webpack_exports__, "IconUsers", function() { return /* r
 __webpack_require__.d(__webpack_exports__, "IconUsersPlus", function() { return /* reexport */ IconUsersPlus; });
 __webpack_require__.d(__webpack_exports__, "IconWindow", function() { return /* reexport */ IconWindow; });
 __webpack_require__.d(__webpack_exports__, "IconWindowsColor", function() { return /* reexport */ IconWindowsColor; });
+__webpack_require__.d(__webpack_exports__, "IconCog", function() { return /* reexport */ IconCog; });
+__webpack_require__.d(__webpack_exports__, "IconSignOut", function() { return /* reexport */ IconSignOut; });
 
 // CONCATENATED MODULE: ./node_modules/@vue/cli-service/lib/commands/build/setPublicPath.js
 // This file is imported into lib/wc client bundles.
@@ -1961,7 +1963,91 @@ var IconWindowsColor_component = normalizeComponent(
 )
 
 /* harmony default export */ var IconWindowsColor = (IconWindowsColor_component.exports);
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"3d7d65bb-vue-loader-template"}!./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/IconCog.vue?vue&type=template&id=f33b9e82&
+var IconCogvue_type_template_id_f33b9e82_render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('svg',{attrs:{"xmlns":"http://www.w3.org/2000/svg","viewBox":"0 0 512 512"}},[_c('path',{staticClass:"fa-secondary",class:[_vm.secondary, 'fill-current'],attrs:{"d":"M487.75 315.6l-42.6-24.6a192.62 192.62 0 0 0 0-70.2l42.6-24.6a12.11 12.11 0 0 0 5.5-14 249.2 249.2 0 0 0-54.7-94.6 12 12 0 0 0-14.8-2.3l-42.6 24.6a188.83 188.83 0 0 0-60.8-35.1V25.7A12 12 0 0 0 311 14a251.43 251.43 0 0 0-109.2 0 12 12 0 0 0-9.4 11.7v49.2a194.59 194.59 0 0 0-60.8 35.1L89.05 85.4a11.88 11.88 0 0 0-14.8 2.3 247.66 247.66 0 0 0-54.7 94.6 12 12 0 0 0 5.5 14l42.6 24.6a192.62 192.62 0 0 0 0 70.2l-42.6 24.6a12.08 12.08 0 0 0-5.5 14 249 249 0 0 0 54.7 94.6 12 12 0 0 0 14.8 2.3l42.6-24.6a188.54 188.54 0 0 0 60.8 35.1v49.2a12 12 0 0 0 9.4 11.7 251.43 251.43 0 0 0 109.2 0 12 12 0 0 0 9.4-11.7v-49.2a194.7 194.7 0 0 0 60.8-35.1l42.6 24.6a11.89 11.89 0 0 0 14.8-2.3 247.52 247.52 0 0 0 54.7-94.6 12.36 12.36 0 0 0-5.6-14.1zm-231.4 36.2a95.9 95.9 0 1 1 95.9-95.9 95.89 95.89 0 0 1-95.9 95.9z"}}),_c('path',{staticClass:"fa-primary",class:[_vm.primary, 'fill-current'],attrs:{"d":"M256.35 319.8a63.9 63.9 0 1 1 63.9-63.9 63.9 63.9 0 0 1-63.9 63.9z"}})])}
+var IconCogvue_type_template_id_f33b9e82_staticRenderFns = []
+
+
+// CONCATENATED MODULE: ./src/IconCog.vue?vue&type=template&id=f33b9e82&
+
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/IconCog.vue?vue&type=script&lang=js&
+//
+//
+//
+//
+//
+//
+//
+
+
+/* harmony default export */ var IconCogvue_type_script_lang_js_ = ({ mixins: [ icon ] });
+
+// CONCATENATED MODULE: ./src/IconCog.vue?vue&type=script&lang=js&
+ /* harmony default export */ var src_IconCogvue_type_script_lang_js_ = (IconCogvue_type_script_lang_js_); 
+// CONCATENATED MODULE: ./src/IconCog.vue
+
+
+
+
+
+/* normalize component */
+
+var IconCog_component = normalizeComponent(
+  src_IconCogvue_type_script_lang_js_,
+  IconCogvue_type_template_id_f33b9e82_render,
+  IconCogvue_type_template_id_f33b9e82_staticRenderFns,
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* harmony default export */ var IconCog = (IconCog_component.exports);
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"3d7d65bb-vue-loader-template"}!./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/IconSignOut.vue?vue&type=template&id=2e827b6b&
+var IconSignOutvue_type_template_id_2e827b6b_render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('svg',{attrs:{"xmlns":"http://www.w3.org/2000/svg","viewBox":"0 0 512 512"}},[_c('path',{class:[_vm.secondary, 'fill-current'],attrs:{"d":"M180 448H96a96 96 0 0 1-96-96V160a96 96 0 0 1 96-96h84a12 12 0 0 1 12 12v40a12 12 0 0 1-12 12H96a32 32 0 0 0-32 32v192a32 32 0 0 0 32 32h84a12 12 0 0 1 12 12v40a12 12 0 0 1-12 12z"}}),_c('path',{class:[_vm.primary, 'fill-current'],attrs:{"d":"M353 88.3l151.9 150.6a24 24 0 0 1 0 34.1l-152 150.8a24.08 24.08 0 0 1-33.9-.1l-21.9-21.9a24.07 24.07 0 0 1 .8-34.7l77.6-71.1H184a23.94 23.94 0 0 1-24-24v-32a23.94 23.94 0 0 1 24-24h191.5l-77.6-71.1a24 24 0 0 1-.7-34.6l21.9-21.9a24 24 0 0 1 33.9-.1z"}})])}
+var IconSignOutvue_type_template_id_2e827b6b_staticRenderFns = []
+
+
+// CONCATENATED MODULE: ./src/IconSignOut.vue?vue&type=template&id=2e827b6b&
+
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/IconSignOut.vue?vue&type=script&lang=js&
+//
+//
+//
+//
+//
+//
+//
+
+
+/* harmony default export */ var IconSignOutvue_type_script_lang_js_ = ({ mixins: [ icon ] });
+
+// CONCATENATED MODULE: ./src/IconSignOut.vue?vue&type=script&lang=js&
+ /* harmony default export */ var src_IconSignOutvue_type_script_lang_js_ = (IconSignOutvue_type_script_lang_js_); 
+// CONCATENATED MODULE: ./src/IconSignOut.vue
+
+
+
+
+
+/* normalize component */
+
+var IconSignOut_component = normalizeComponent(
+  src_IconSignOutvue_type_script_lang_js_,
+  IconSignOutvue_type_template_id_2e827b6b_render,
+  IconSignOutvue_type_template_id_2e827b6b_staticRenderFns,
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* harmony default export */ var IconSignOut = (IconSignOut_component.exports);
 // CONCATENATED MODULE: ./src/index.js
+
+
 
 
 
@@ -2040,6 +2126,8 @@ const IconList = {
   IconUsersPlus: IconUsersPlus,
   IconWindow: IconWindow,
   IconWindowsColor: IconWindowsColor,
+  IconCog: IconCog,
+  IconSignOut: IconSignOut,
 }
 
 /* harmony default export */ var src_0 = ({
