@@ -38,6 +38,17 @@ import IconWindow from './IconWindow.vue'
 import IconWindowsColor from './IconWindowsColor.vue'
 import IconCog from './IconCog'
 import IconSignOut from './IconSignOut'
+import IconBadgeCheck from './IconBadgeCheck'
+import IconBrowser from './IconBrowser'
+import IconClock from './IconClock'
+import IconCloudUpload from './IconCloudUpload'
+import IconDots from './IconDots'
+import IconHandShake from './IconHandShake'
+import IconKey from './IconKey'
+import IconLaptopCode from './IconLaptopCode'
+import IconPaste from './IconPaste'
+import IconPhoneLaptop from './IconPhoneLaptop'
+import IconTrash from './IconTrash'
 
 const IconList = {
   IconBang: IconBang,
@@ -80,6 +91,17 @@ const IconList = {
   IconWindowsColor: IconWindowsColor,
   IconCog: IconCog,
   IconSignOut: IconSignOut,
+  IconBadgeCheck: IconBadgeCheck,
+  IconBrowser: IconBrowser,
+  IconClock: IconClock,
+  IconCloudUpload: IconCloudUpload,
+  IconDots: IconDots,
+  IconHandShake: IconHandShake,
+  IconKey: IconKey,
+  IconLaptopCode: IconLaptopCode,
+  IconPaste: IconPaste,
+  IconPhoneLaptop: IconPhoneLaptop,
+  IconTrash: IconTrash,
 }
 
 export default {
@@ -131,4 +153,15 @@ export {
   IconWindowsColor,
   IconCog,
   IconSignOut,
+  IconBadgeCheck,
+  IconBrowser,
+  IconClock,
+  IconCloudUpload,
+  IconDots,
+  IconHandShake,
+  IconKey,
+  IconLaptopCode,
+  IconPaste,
+  IconPhoneLaptop,
+  IconTrash,
 }
