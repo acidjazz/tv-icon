@@ -4,10 +4,8 @@
   "description": "icons used in nuxt-tailvue",
   "main": "dist/tv-icon.umd.js",
   "files": [
-    "dist/tv-button.css",
-    "dist/*",
-    "src/*",
-    "*.js"
+    "dist/tv-icon.umd.min.js",
+    "dist/tv-icon.css"
   ],
   "scripts": {
     "test": "jest",
