@@ -49,6 +49,14 @@ import IconLaptopCode from './IconLaptopCode'
 import IconPaste from './IconPaste'
 import IconPhoneLaptop from './IconPhoneLaptop'
 import IconTrash from './IconTrash'
+import IconCube from './IconCube'
+import IconFile from './IconFile'
+import IconFilePlus from './IconFilePlus'
+import IconFlag from './IconFlag'
+import IconLambda from './IconLambda'
+import IconLink from './IconLink'
+import IconSync from './IconSync'
+import IconTachometer from './IconTachometer'
 
 const IconList = {
   IconBang: IconBang,
@@ -102,6 +110,14 @@ const IconList = {
   IconPaste: IconPaste,
   IconPhoneLaptop: IconPhoneLaptop,
   IconTrash: IconTrash,
+  IconCube: IconCube,
+  IconFile: IconFile,
+  IconFilePlus: IconFilePlus,
+  IconFlag: IconFlag,
+  IconLambda: IconLambda,
+  IconLink: IconLink,
+  IconSync: IconSync,
+  IconTachometer: IconTachometer,
 }
 
 export default {
@@ -164,4 +180,12 @@ export {
   IconPaste,
   IconPhoneLaptop,
   IconTrash,
+  IconCube,
+  IconFile,
+  IconFilePlus,
+  IconFlag,
+  IconLambda,
+  IconLink,
+  IconSync,
+  IconTachometer,
 }
