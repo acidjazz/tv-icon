@@ -57,6 +57,34 @@ import IconLambda from './IconLambda'
 import IconLink from './IconLink'
 import IconSync from './IconSync'
 import IconTachometer from './IconTachometer'
+import IconBold from './IconBold'
+import IconCode from './IconCode'
+import IconCodeCommit from './IconCodeCommit'
+import IconGlobe from './IconGlobe'
+import IconHandShakeSlash from './IconHandShakeSlash'
+import IconHome from './IconHome'
+import IconHorizontalRule from './IconHorizontalRule'
+import IconItalic from './IconItalic'
+import IconLayerGroup from './IconLayerGroup'
+import IconLayerMinus from './IconLayerMinus'
+import IconLayerPlus from './IconLayerPlus'
+import IconListOl from './IconListOl'
+import IconListUl from './IconListUl'
+import IconLock from './IconLock'
+import IconLockOpen from './IconLockOpen'
+import IconMinusCircle from './IconMinusCircle'
+import IconParagraph from './IconParagraph'
+import IconPlus from './IconPlus'
+import IconPlusCircle from './IconPlusCircle'
+import IconQuoteRight from './IconQuoteRight'
+import IconRedo from './IconRedo'
+import IconStrikeThrough from './IconStrikeThrough'
+import IconTable from './IconTable'
+import IconTasks from './IconTasks'
+import IconUnderline from './IconUnderline'
+import IconUndo from './IconUndo'
+import IconUserHeadset from './IconUserHeadset'
+import IconUsersSlash from './IconUsersSlash'
 
 const IconList = {
   IconBang: IconBang,
@@ -118,6 +146,34 @@ const IconList = {
   IconLink: IconLink,
   IconSync: IconSync,
   IconTachometer: IconTachometer,
+  IconBold: IconBold,
+  IconCode: IconCode,
+  IconCodeCommit: IconCodeCommit,
+  IconGlobe: IconGlobe,
+  IconHandShakeSlash: IconHandShakeSlash,
+  IconHome: IconHome,
+  IconHorizontalRule: IconHorizontalRule,
+  IconItalic: IconItalic,
+  IconLayerGroup: IconLayerGroup,
+  IconLayerMinus: IconLayerMinus,
+  IconLayerPlus: IconLayerPlus,
+  IconListOl: IconListOl,
+  IconListUl: IconListUl,
+  IconLock: IconLock,
+  IconLockOpen: IconLockOpen,
+  IconMinusCircle: IconMinusCircle,
+  IconParagraph: IconParagraph,
+  IconPlus: IconPlus,
+  IconPlusCircle: IconPlusCircle,
+  IconQuoteRight: IconQuoteRight,
+  IconRedo: IconRedo,
+  IconStrikeThrough: IconStrikeThrough,
+  IconTable: IconTable,
+  IconTasks: IconTasks,
+  IconUnderline: IconUnderline,
+  IconUndo: IconUndo,
+  IconUserHeadset: IconUserHeadset,
+  IconUsersSlash: IconUsersSlash,
 }
 
 export default {
@@ -188,4 +244,32 @@ export {
   IconLink,
   IconSync,
   IconTachometer,
+  IconBold,
+  IconCode,
+  IconCodeCommit,
+  IconGlobe,
+  IconHandShakeSlash,
+  IconHome,
+  IconHorizontalRule,
+  IconItalic,
+  IconLayerGroup,
+  IconLayerMinus,
+  IconLayerPlus,
+  IconListOl,
+  IconListUl,
+  IconLock,
+  IconLockOpen,
+  IconMinusCircle,
+  IconParagraph,
+  IconPlus,
+  IconPlusCircle,
+  IconQuoteRight,
+  IconRedo,
+  IconStrikeThrough,
+  IconTable,
+  IconTasks,
+  IconUnderline,
+  IconUndo,
+  IconUserHeadset,
+  IconUsersSlash,
 }
