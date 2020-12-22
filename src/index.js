@@ -24,6 +24,7 @@ import IconBooks from './IconBooks.vue'
 import IconChevronLeft from './IconChevronLeft.vue'
 import IconChevronRight from './IconChevronRight.vue'
 import IconFume from './IconFume.vue'
+import IconFumeF from './IconFumeF.vue'
 import IconGitLab from './IconGitLab.vue'
 import IconInvoiceDollar from './IconInvoiceDollar.vue'
 import IconQuestion from './IconQuestion.vue'
@@ -113,6 +114,7 @@ const IconList = {
   IconChevronLeft: IconChevronLeft,
   IconChevronRight: IconChevronRight,
   IconFume: IconFume,
+  IconFumeF: IconFumeF,
   IconGitLab: IconGitLab,
   IconInvoiceDollar: IconInvoiceDollar,
   IconQuestion: IconQuestion,
@@ -211,6 +213,7 @@ export {
   IconChevronLeft,
   IconChevronRight,
   IconFume,
+  IconFumeF,
   IconGitLab,
   IconInvoiceDollar,
   IconQuestion,

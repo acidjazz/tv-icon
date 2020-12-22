@@ -224,6 +224,7 @@ __webpack_require__.d(__webpack_exports__, "IconBooks", function() { return /* r
 __webpack_require__.d(__webpack_exports__, "IconChevronLeft", function() { return /* reexport */ IconChevronLeft; });
 __webpack_require__.d(__webpack_exports__, "IconChevronRight", function() { return /* reexport */ IconChevronRight; });
 __webpack_require__.d(__webpack_exports__, "IconFume", function() { return /* reexport */ IconFume; });
+__webpack_require__.d(__webpack_exports__, "IconFumeF", function() { return /* reexport */ IconFumeF; });
 __webpack_require__.d(__webpack_exports__, "IconGitLab", function() { return /* reexport */ IconGitLab; });
 __webpack_require__.d(__webpack_exports__, "IconInvoiceDollar", function() { return /* reexport */ IconInvoiceDollar; });
 __webpack_require__.d(__webpack_exports__, "IconQuestion", function() { return /* reexport */ IconQuestion; });
@@ -1518,6 +1519,46 @@ var IconFume_component = normalizeComponent(
 )
 
 /* harmony default export */ var IconFume = (IconFume_component.exports);
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"3d7d65bb-vue-loader-template"}!./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/IconFumeF.vue?vue&type=template&id=b93be3e2&
+var IconFumeFvue_type_template_id_b93be3e2_render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('svg',{attrs:{"viewBox":"0 0 24 24","version":"1.1","xmlns":"http://www.w3.org/2000/svg"}},[_c('path',{class:[_vm.primary, 'fill-current'],attrs:{"d":"M 4.097 15.925 L 4.097 23.817 C 1.916 23.817 0.145 22.05 0.145 19.871 L 0.145 15.925 L 4.097 15.925 Z M 15.956 8.032 C 15.956 10.211 14.187 11.978 12.003 11.978 L 0.145 11.978 L 0.145 8.032 L 15.956 8.032 Z M 23.862 0.14 C 23.862 2.318 22.093 4.086 19.909 4.086 L 0.145 4.086 C 0.145 1.905 1.916 0.14 4.097 0.14 L 23.862 0.14 Z"}})])}
+var IconFumeFvue_type_template_id_b93be3e2_staticRenderFns = []
+
+
+// CONCATENATED MODULE: ./src/IconFumeF.vue?vue&type=template&id=b93be3e2&
+
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/IconFumeF.vue?vue&type=script&lang=js&
+//
+//
+//
+//
+//
+//
+
+
+/* harmony default export */ var IconFumeFvue_type_script_lang_js_ = ({ mixins: [ icon ] });
+
+// CONCATENATED MODULE: ./src/IconFumeF.vue?vue&type=script&lang=js&
+ /* harmony default export */ var src_IconFumeFvue_type_script_lang_js_ = (IconFumeFvue_type_script_lang_js_); 
+// CONCATENATED MODULE: ./src/IconFumeF.vue
+
+
+
+
+
+/* normalize component */
+
+var IconFumeF_component = normalizeComponent(
+  src_IconFumeFvue_type_script_lang_js_,
+  IconFumeFvue_type_template_id_b93be3e2_render,
+  IconFumeFvue_type_template_id_b93be3e2_staticRenderFns,
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* harmony default export */ var IconFumeF = (IconFumeF_component.exports);
 // CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"3d7d65bb-vue-loader-template"}!./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/IconGitLab.vue?vue&type=template&id=64860fd1&
 var IconGitLabvue_type_template_id_64860fd1_render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('svg',{attrs:{"xmlns":"http://www.w3.org/2000/svg","viewBox":"0 0 512 512"}},[_c('path',{class:[_vm.primary, 'fill-current'],attrs:{"d":"M105.2 24.9c-3.1-8.9-15.7-8.9-18.9 0L29.8 199.7h132c-.1 0-56.6-174.8-56.6-174.8zM.9 287.7c-2.6 8 .3 16.9 7.1 22l247.9 184-226.2-294zm160.8-88l94.3 294 94.3-294zm349.4 88l-28.8-88-226.3 294 247.9-184c6.9-5.1 9.7-14 7.2-22zM425.7 24.9c-3.1-8.9-15.7-8.9-18.9 0l-56.6 174.8h132z"}})])}
 var IconGitLabvue_type_template_id_64860fd1_staticRenderFns = []
@@ -4109,6 +4150,7 @@ var IconUsersSlash_component = normalizeComponent(
 
 
 
+
 const IconList = {
   IconBang: IconBang,
   IconCheck: IconCheck,
@@ -4136,6 +4178,7 @@ const IconList = {
   IconChevronLeft: IconChevronLeft,
   IconChevronRight: IconChevronRight,
   IconFume: IconFume,
+  IconFumeF: IconFumeF,
   IconGitLab: IconGitLab,
   IconInvoiceDollar: IconInvoiceDollar,
   IconQuestion: IconQuestion,
