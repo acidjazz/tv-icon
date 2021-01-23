@@ -86,6 +86,28 @@ import IconUnderline from './IconUnderline'
 import IconUndo from './IconUndo'
 import IconUserHeadset from './IconUserHeadset'
 import IconUsersSlash from './IconUsersSlash'
+import IconAlarmClock from './IconAlarmClock'
+import IconAzure from './IconAzure'
+import IconBracketsCurly from './IconBracketsCurly'
+import IconCaratRight from './IconCaratRight'
+import IconChartBar from './IconChartBar'
+import IconClipboardList from './IconClipboardList'
+import IconDiscord from './IconDiscord'
+import IconEllipsisVertical from './IconEllipsisVertical'
+import IconFileMedical from './IconFileMedical'
+import IconFileSpreadsheet from './IconFileSpreadsheet'
+import IconGoogle from './IconGoogle'
+import IconGripVertical from './IconGripVertical'
+import IconHexagon from './IconHexagon'
+import IconLanguage from './IconLanguage'
+import IconNotesMedical from './IconNotesMedical'
+import IconPlug from './IconPlug'
+import IconSave from './IconSave'
+import IconSection from './IconSection'
+import IconSlack from './IconSlack'
+import IconStopWatch from './IconStopWatch'
+import IconUserCog from './IconUserCog'
+import IconWebhook from './IconWebhook'
 
 const IconList = {
   IconBang: IconBang,
@@ -176,6 +198,28 @@ const IconList = {
   IconUndo: IconUndo,
   IconUserHeadset: IconUserHeadset,
   IconUsersSlash: IconUsersSlash,
+  IconAlarmClock: IconAlarmClock,
+  IconAzure: IconAzure,
+  IconBracketsCurly: IconBracketsCurly,
+  IconCaratRight: IconCaratRight,
+  IconChartBar: IconChartBar,
+  IconClipboardList: IconClipboardList,
+  IconDiscord: IconDiscord,
+  IconEllipsisVertical: IconEllipsisVertical,
+  IconFileMedical: IconFileMedical,
+  IconFileSpreadsheet: IconFileSpreadsheet,
+  IconGoogle: IconGoogle,
+  IconGripVertical: IconGripVertical,
+  IconHexagon: IconHexagon,
+  IconLanguage: IconLanguage,
+  IconNotesMedical: IconNotesMedical,
+  IconPlug: IconPlug,
+  IconSave: IconSave,
+  IconSection: IconSection,
+  IconSlack: IconSlack,
+  IconStopWatch: IconStopWatch,
+  IconUserCog: IconUserCog,
+  IconWebhook: IconWebhook,
 }
 
 export default {
@@ -275,4 +319,26 @@ export {
   IconUndo,
   IconUserHeadset,
   IconUsersSlash,
+  IconAlarmClock,
+  IconAzure,
+  IconBracketsCurly,
+  IconCaratRight,
+  IconChartBar,
+  IconClipboardList,
+  IconDiscord,
+  IconEllipsisVertical,
+  IconFileMedical,
+  IconFileSpreadsheet,
+  IconGoogle,
+  IconGripVertical,
+  IconHexagon,
+  IconLanguage,
+  IconNotesMedical,
+  IconPlug,
+  IconSave,
+  IconSection,
+  IconSlack,
+  IconStopWatch,
+  IconUserCog,
+  IconWebhook,
 }
