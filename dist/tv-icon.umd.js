@@ -362,6 +362,11 @@ var staticRenderFns = []
       required: false,
       default: 'text-gray-300',
     },
+    third: {
+      type: String,
+      required: false,
+      default: 'text-indigo-100',
+    },
   },
 });
 
