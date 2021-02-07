@@ -109,6 +109,14 @@ import IconStopWatch from './IconStopWatch'
 import IconUserCog from './IconUserCog'
 import IconWebhook from './IconWebhook'
 
+import IconBolt from './IconBolt'
+import IconCreditCard from './IconCreditCard'
+import IconDenied from './IconDenied'
+import IconRobot from './IconRobot'
+import IconShoppingCart from './IconShoppingCart'
+import IconTailwind from './IconTailwind'
+import IconYoutube from './IconYoutube'
+
 const IconList = {
   IconBang: IconBang,
   IconCheck: IconCheck,
@@ -220,6 +228,13 @@ const IconList = {
   IconStopWatch: IconStopWatch,
   IconUserCog: IconUserCog,
   IconWebhook: IconWebhook,
+  IconBolt: IconBolt,
+  IconCreditCard: IconCreditCard,
+  IconDenied: IconDenied,
+  IconRobot: IconRobot,
+  IconShoppingCart: IconShoppingCart,
+  IconTailwind: IconTailwind,
+  IconYoutube: IconYoutube,
 }
 
 export default {
@@ -341,4 +356,11 @@ export {
   IconStopWatch,
   IconUserCog,
   IconWebhook,
+  IconBolt,
+  IconCreditCard,
+  IconDenied,
+  IconRobot,
+  IconShoppingCart,
+  IconTailwind,
+  IconYoutube,
 }
