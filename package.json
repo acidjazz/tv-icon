@@ -5,7 +5,8 @@
   "main": "dist/tv-icon.umd.js",
   "files": [
     "dist/tv-icon.umd.min.js",
-    "dist/tv-icon.css"
+    "dist/tv-icon.css",
+    "types/"
   ],
   "scripts": {
     "test": "jest",
