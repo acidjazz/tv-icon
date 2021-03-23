@@ -3,6 +3,7 @@
   "version": "1.0.20",
   "description": "icons used in nuxt-tailvue",
   "main": "dist/tv-icon.umd.js",
+  "types": "types/index.d.ts",
   "files": [
     "dist/tv-icon.umd.min.js",
     "dist/tv-icon.css",
