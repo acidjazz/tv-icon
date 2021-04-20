@@ -117,6 +117,25 @@ import IconShoppingCart from './IconShoppingCart'
 import IconTailwind from './IconTailwind'
 import IconYoutube from './IconYoutube'
 
+import IconAlignCenter from './IconAlignCenter'
+import IconAlignLeft from './IconAlignLeft'
+import IconAlignRight from './IconAlignRight'
+import IconBallotCheck from './IconBallotCheck'
+import IconChartNetwork from './IconChartNetwork'
+import IconCommentPlus from './IconCommentPlus'
+import IconComments from './IconComments'
+import IconConveyorBelt from './IconConveyorBelt'
+import IconDownload from './IconDownload'
+import IconEdit from './IconEdit'
+import IconFilePdf from './IconFilePdf'
+import IconFolder from './IconFolder'
+import IconHardHat from './IconHardHat'
+import IconSort from './IconSort'
+import IconStream from './IconStream'
+import IconTh from './IconTh'
+import IconTools from './IconTools'
+import IconTypewriter from './IconTypewriter'
+
 const IconList = {
   IconBang: IconBang,
   IconCheck: IconCheck,
@@ -235,6 +254,24 @@ const IconList = {
   IconShoppingCart: IconShoppingCart,
   IconTailwind: IconTailwind,
   IconYoutube: IconYoutube,
+  IconAlignCenter: IconAlignCenter,
+  IconAlignLeft: IconAlignLeft,
+  IconAlignRight: IconAlignRight,
+  IconBallotCheck: IconBallotCheck,
+  IconChartNetwork: IconChartNetwork,
+  IconCommentPlus: IconCommentPlus,
+  IconComments: IconComments,
+  IconConveyorBelt: IconConveyorBelt,
+  IconDownload: IconDownload,
+  IconEdit: IconEdit,
+  IconFilePdf: IconFilePdf,
+  IconFolder: IconFolder,
+  IconHardHat: IconHardHat,
+  IconSort: IconSort,
+  IconStream: IconStream,
+  IconTh: IconTh,
+  IconTools: IconTools,
+  IconTypewriter: IconTypewriter,
 }
 
 export default {
@@ -363,4 +400,22 @@ export {
   IconShoppingCart,
   IconTailwind,
   IconYoutube,
+  IconAlignCenter,
+  IconAlignLeft,
+  IconAlignRight,
+  IconBallotCheck,
+  IconChartNetwork,
+  IconCommentPlus,
+  IconComments,
+  IconConveyorBelt,
+  IconDownload,
+  IconEdit,
+  IconFilePdf,
+  IconFolder,
+  IconHardHat,
+  IconSort,
+  IconStream,
+  IconTh,
+  IconTools,
+  IconTypewriter,
 }
