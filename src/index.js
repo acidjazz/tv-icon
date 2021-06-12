@@ -136,6 +136,11 @@ import IconTh from './IconTh'
 import IconTools from './IconTools'
 import IconTypewriter from './IconTypewriter'
 
+import IconCubes from './IconCubes'
+import IconEclipseAlt from './IconEclipseAlt'
+import IconMugHot from './IconMugHot'
+import IconNestJs from './IconNestJs'
+
 const IconList = {
   IconBang: IconBang,
   IconCheck: IconCheck,
@@ -272,6 +277,11 @@ const IconList = {
   IconTh: IconTh,
   IconTools: IconTools,
   IconTypewriter: IconTypewriter,
+  IconCubes: IconCubes,
+  IconEclipseAlt: IconEclipseAlt,
+  IconMugHot: IconMugHot,
+  IconNestJs: IconNestJs,
+
 }
 
 export default {
@@ -418,4 +428,8 @@ export {
   IconTh,
   IconTools,
   IconTypewriter,
+  IconCubes,
+  IconEclipseAlt,
+  IconMugHot,
+  IconNestJs,
 }
